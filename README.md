@@ -1,5 +1,4 @@
 # How to be an Imperfectionist
-![](docs/cover.jpg)
 * ISBN-13: 978-0996435406
 * ISBN-10: 0996435409
 
