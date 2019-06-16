@@ -94,11 +94,11 @@ that you can fix or try again.
 ### Problems
 * Desire versus Reality impairs progress and happiness
 * Romanticized
-    * good weakness
-    * positive flaw
+    * Good weakness
+    * Positive flaw
 * Superficial
-    * actor pretending
-    * nobody is perfect
+    * Actor pretending
+    * nNbody is perfect
 * Personal standards correlated with depression
     * Striving for excellence
     * High expectations
@@ -132,7 +132,7 @@ In life, you're consistently building up one of two things:
     * Changes how we feel
     * Increases motivation
 
-### What is Imperfectionism?
+## What is Imperfectionism?
 Prioritizing doing by taking away the crippling fear of *not* doing well.
 
 ### Benefits of Imperfectionism
@@ -160,15 +160,15 @@ When you care less about the result of a process, it makes the process itself ea
         * Focus on what you control, the process, *not* the results
 
 ### Examples
-* NAVY SEAL's
-    * no matter how hard it gets and how bleak it looks, the best move is
-    to determine and execute the next step
-    * difficult processes become easier with "one step at a time" thinking;
-    they are made nearly impossible by looking ahead
-        * start the process and see what happens
-        * focus on the process
+#### NAVY SEAL's
+* No matter how hard it gets and how bleak it looks, the best move is
+to determine and execute the next step
+* Difficult processes become easier with "one step at a time" thinking;
+they are made nearly impossible by looking ahead
+    * Start the process and see what happens
+    * Focus on the process
 
-### Solutions
+## Solutions
 * Change what I care about and focus my mind upon
     * Focus on process *not* results
         * Small, consistent, incremental steps
@@ -187,27 +187,37 @@ When you care less about the result of a process, it makes the process itself ea
 **lower the bar for doing it**.
     * Make it a causual, regular habit each day 
 
-## Quotes
-* *"Strive for continuous improvement, instead of perfection."* **-Kim Collins**
-* *"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."* **-Ralph Waldo Emerson**
-* *"If you look for perfection, you'll never be content"* **-Leo Tolstoy**
-* *"Striving for excellence motivates you; striving for perfection is demoralizing."* **-Harriet Braiker**
-* *"When one's expectations are reduced to zero, one really appreciates everything one does have."* **-Stephen Hawking**
-* *"The tricky thing about rumination is that it feels like it's helpful, but there's no action taken, and you don't move forward to some sort of solution"* **-Carla Grayson**
-* *"People who want the most approval get the least and people who need approval the least get the most."* **-Wayne Dyer**
+# Quotes
+> *"Strive for continuous improvement, instead of perfection."* **-Kim Collins**
+
+> *"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."* **-Ralph Waldo Emerson**
+
+> *"If you look for perfection, you'll never be content"* **-Leo Tolstoy**
+
+> *"Striving for excellence motivates you; striving for perfection is demoralizing."* **-Harriet Braiker**
+
+> *"When one's expectations are reduced to zero, one really appreciates everything one does have."* **-Stephen Hawking**
+
+> *"The tricky thing about rumination is that it feels like it's helpful, but there's no action taken, and you don't move forward to some sort of solution"* **-Carla Grayson**
+
+> *"People who want the most approval get the least and people who need approval the least get the most."* **-Wayne Dyer**
 
 
 ### Categorized Quotes from Kurt Cobain's Suicide Note
 
 #### Unrealistic Expectations
-* *"I've tried everything within my power to appreciate it (and I do,God, believe me I do, but it's **not enough**)"*
-* *"For example when we're back stage and the lights go out and the manic roar of the crowds begins., **it doesn't affect me** the way in which it did for Freddie Mercury, who seemed to love, relish in the the love and adoration from the crowd which is something I totally admire and envy."*
+>  *"I've tried everything within my power to appreciate it (and I do,God, believe me I do, but it's **not enough**)"*
+
+> *"For example when we're back stage and the lights go out and the manic roar of the crowds begins., **it doesn't affect me** the way in which it did for Freddie Mercury, who seemed to love, relish in the the love and adoration from the crowd which is something I totally admire and envy."*
 
 #### Personal Flaws and Rumination
-* *"I'm **too sensitive**. I need to be slightly numb in order to regain the enthusiasms I once had as a child."*
-* *"I think I simply love people **too much**, so much that it makes me feel **too fucking sad**."*
-* *"I love and feel sorry for people **too much** I guess"*
+> *"I'm **too sensitive**. I need to be slightly numb in order to regain the enthusiasms I once had as a child."*
+
+> *"I think I simply love people **too much**, so much that it makes me feel **too fucking sad**."*
+
+> *"I love and feel sorry for people **too much** I guess"*
 
 #### Hopeless, Fearful Future
-* *"... **terrifies me to the point to where I can barely function**. I can't stand the thought of Frances becoming the miserable, self-destructive, death rocker that I've become"*
-* *"For her life, which **will be** so much **happier without me**."*
+> *"... **terrifies me to the point to where I can barely function**. I can't stand the thought of Frances becoming the miserable, self-destructive, death rocker that I've become"*
+
+> *"For her life, which **will be** so much **happier without me**."*
