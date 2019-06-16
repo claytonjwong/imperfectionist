@@ -188,36 +188,36 @@ they are made nearly impossible by looking ahead
     * Make it a causual, regular habit each day 
 
 # Quotes
-> *"Strive for continuous improvement, instead of perfection."* **-Kim Collins**
+> *Strive for continuous improvement, instead of perfection.* **-Kim Collins**
 
-> *"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."* **-Ralph Waldo Emerson**
+> *To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.* **-Ralph Waldo Emerson**
 
-> *"If you look for perfection, you'll never be content"* **-Leo Tolstoy**
+> *If you look for perfection, you'll never be content.* **-Leo Tolstoy**
 
-> *"Striving for excellence motivates you; striving for perfection is demoralizing."* **-Harriet Braiker**
+> *Striving for excellence motivates you; striving for perfection is demoralizing.* **-Harriet Braiker**
 
-> *"When one's expectations are reduced to zero, one really appreciates everything one does have."* **-Stephen Hawking**
+> *When one's expectations are reduced to zero, one really appreciates everything one does have.* **-Stephen Hawking**
 
-> *"The tricky thing about rumination is that it feels like it's helpful, but there's no action taken, and you don't move forward to some sort of solution"* **-Carla Grayson**
+> *The tricky thing about rumination is that it feels like it's helpful, but there's no action taken, and you don't move forward to some sort of solution.* **-Carla Grayson**
 
-> *"People who want the most approval get the least and people who need approval the least get the most."* **-Wayne Dyer**
+> *People who want the most approval get the least and people who need approval the least get the most.* **-Wayne Dyer**
 
 
 ### Categorized Quotes from Kurt Cobain's Suicide Note
 
 #### Unrealistic Expectations
->  *"I've tried everything within my power to appreciate it (and I do,God, believe me I do, but it's **not enough**)"*
+>  *I've tried everything within my power to appreciate it (and I do,God, believe me I do, but it's **not enough**)*
 
-> *"For example when we're back stage and the lights go out and the manic roar of the crowds begins., **it doesn't affect me** the way in which it did for Freddie Mercury, who seemed to love, relish in the the love and adoration from the crowd which is something I totally admire and envy."*
+> *For example when we're back stage and the lights go out and the manic roar of the crowds begins., **it doesn't affect me** the way in which it did for Freddie Mercury, who seemed to love, relish in the the love and adoration from the crowd which is something I totally admire and envy.*
 
 #### Personal Flaws and Rumination
-> *"I'm **too sensitive**. I need to be slightly numb in order to regain the enthusiasms I once had as a child."*
+> *I'm **too sensitive**. I need to be slightly numb in order to regain the enthusiasms I once had as a child.*
 
-> *"I think I simply love people **too much**, so much that it makes me feel **too fucking sad**."*
+> *I think I simply love people **too much**, so much that it makes me feel **too fucking sad**.*
 
-> *"I love and feel sorry for people **too much** I guess"*
+> *I love and feel sorry for people **too much** I guess.*
 
 #### Hopeless, Fearful Future
-> *"... **terrifies me to the point to where I can barely function**. I can't stand the thought of Frances becoming the miserable, self-destructive, death rocker that I've become"*
+> ***terrifies me to the point to where I can barely function**. I can't stand the thought of Frances becoming the miserable, self-destructive, death rocker that I've become.*
 
-> *"For her life, which **will be** so much **happier without me**."*
+> *For her life, which **will be** so much **happier without me**.*
