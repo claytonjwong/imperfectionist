@@ -97,7 +97,7 @@ that you can fix or try again.
     * Positive flaw
 * Superficial
     * Actor pretending
-    * nNbody is perfect
+    * Nobody is perfect
 * Personal standards correlated with depression
     * Striving for excellence
     * High expectations
