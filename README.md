@@ -1,4 +1,9 @@
 # How to be an Imperfectionist
+
+> We don't abandon our pursuits because we despair of ever perfecting them.
+>
+[-Epictetus, Discourses, 1.2.37b](https://en.wikipedia.org/wiki/Discourses_of_Epictetus)
+
 * ISBN-13: 978-0996435406
 * ISBN-10: 0996435409
 
